@@ -39,7 +39,7 @@ I have always dreamed of contributing to products that make a difference and pro
 ---
 
 ### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [LinkedIn](https://www.linkedin.com/in/en-yang)
 
 
 

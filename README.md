@@ -16,16 +16,31 @@ Here are some ideas to get you started:
 -->
 # En Yang
 
+### Passionate Software Engineer & Data Analyst
+I am currently seeking an **Entry-Level** position as a **Web Developer**, **Full-Stack Developer**, or **Software Engineer**.
 
- 
-I am a passionate software engineer and data analytist and **I am currently looking for a job as a web developer / Full-Stack / Software Engineer in Entry-Level** 
+---
 
-I have always dreamed of contributing to a product that makes a difference and provides real benefits to its users. To pursue this dream, I studied Software Engineering at the University of Western Ontario, where I developed a strong foundation in Web development technologies and tools, Automated unit and integration testing, and lifecycle of development of digital application. My experience encompasses advanced knowledge in web applications, APIs, front-end and back-end development, modern databases, and hosting environments, including servers and networks. 
+I have always dreamed of contributing to products that make a difference and provide real benefits to users. To pursue this dream, I studied **Software Engineering** at the **University of Western Ontario**, where I developed a strong foundation in web development technologies and tools, automated unit and integration testing, and the entire lifecycle of digital application development. My experience encompasses:
 
-## Full-Stack Projects
- [**bullet journaling**](www.enbujo.com) 
- open-books collection : provide books search and stored in personal profile
+- Advanced knowledge in **web applications** and **APIs**
+- Proficiency in **front-end** and **back-end development**
+- Familiarity with modern **databases** and **hosting environments** (including servers and networks)
 
-## Data analytic Projects
-Explore user payment under their behaviors: https://github.com/EnYang999/Data_Mining
+---
+
+## 🚀 Full-Stack Projects
+- **[Bullet Journaling](http://www.enbujo.com)**: An open-books collection that allows users to search for and store books in their personal profiles.
+
+---
+
+## 📊 Data Analytics Projects
+- **[User Payment Behavior Analysis](https://github.com/EnYang999/Data_Mining)**: Explore user payment patterns and behaviors through data mining techniques.
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+
+
 

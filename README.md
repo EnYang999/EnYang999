@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# En Yang
 
 ### Passionate Software Engineer & Data Analyst
 I am currently seeking an **Entry-Level** position as a **Web Developer**, **Full-Stack Developer**, or **Software Engineer**.
